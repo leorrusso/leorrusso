@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div style="display:inline">
- <h2> I'm Leo, I work as a Power Platform Developer</h2>
+ <h2> I'm Leo, I'm a Power Platform Developer</h2>
  <img width:"50" height="50" src="https://raw.githubusercontent.com/leorrusso/leorrusso/main/PowerPlatform_scalable.svg">
   <img width:"50" height="50" src="https://raw.githubusercontent.com/leorrusso/leorrusso/main/PowerFx_scalable.svg">
   <img width:"50" height="50" src="https://raw.githubusercontent.com/leorrusso/leorrusso/main/Dataverse_scalable.svg">
