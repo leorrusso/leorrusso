@@ -1,6 +1,14 @@
 ### Hi there 👋
-## I'm Leo, I work as a Power Platform Developer
 
+<div style="display:inline">
+ <h2> I'm Leo, I work as a Power Platform Developer</h2>
+ <img width:"50" height="50" src="https://raw.githubusercontent.com/leorrusso/leorrusso/main/PowerPlatform_scalable.svg">
+  <img width:"50" height="50" src="https://raw.githubusercontent.com/leorrusso/leorrusso/main/PowerFx_scalable.svg">
+  <img width:"50" height="50" src="https://raw.githubusercontent.com/leorrusso/leorrusso/main/Dataverse_scalable.svg">
+  <img width:"50" height="50" src="https://raw.githubusercontent.com/leorrusso/leorrusso/main/PowerApps_scalable.svg">
+  <img width:"50" height="50" src="https://raw.githubusercontent.com/leorrusso/leorrusso/main/PowerAutomate_scalable.svg">
+</div>
+<br>
 <div style="display:inline_block">
  🌱 I’m currently learning ==>
 <img  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -22,7 +30,7 @@
 </div>
 <br>
 <div style="display:inline_block">
+  ❣️
   <img width="100" heigth="40" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img width="100" heigth="40" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
 </div>
 <br>
