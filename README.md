@@ -1,6 +1,4 @@
-Here’s an enhanced version of your GitHub profile description with improved readability, a more engaging introduction, and a Buy Me a Coffee link.
-
-Hi there! 👋
+# Hi there! 👋
 
 I’m Leo, a Power Platform Developer 🚀
 
